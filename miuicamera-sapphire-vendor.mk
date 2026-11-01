@@ -11,5 +11,6 @@ PRODUCT_PACKAGES += \
     libmicampostproc_client \
     vendor.xiaomi.hardware.campostproc@1.0_system \
     com.jigan.node.realtimebokeh \
+    libmialgoengine \
     libmialgoengine2 \
     MiuiCamera
